@@ -20,7 +20,7 @@ export const Home = (): FunctionComponent => {
 				type="submit"
 				onClick={onTranslateButtonClick}
 			>
-				translate
+				FrankFuck
 			</button>
 		</div>
 	);
