@@ -1,1 +1,2 @@
-pnpm run commitlint ${1}
+#!/bin/sh
+pnpm run commitlint $1
